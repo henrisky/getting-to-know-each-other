@@ -1,0 +1,39 @@
+body {
+    background-color: lightsteelblue;
+}
+
+p {
+    text-indent: 40px;
+    font-size: 20px;
+    display: block;
+    margin: auto;
+    width: 35%;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+address {
+    text-align: center;
+}
+
+img, ul{
+    display: block;
+    margin: auto;
+    width: 35%;
+}
+
+li {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#funFact {
+    text-indent: 0px;
+    text-align: center;
+}
+
